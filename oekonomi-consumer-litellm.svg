@@ -37,14 +37,10 @@
 <text x="565.0" y="1099.0" font-size="11" text-anchor="middle" font-weight="normal" fill="#000">AiOekonomi</text>
 <rect x="337" y="1294" width="14" height="10" fill="#F0FFFF" stroke="#000"/><rect x="334" y="1296" width="6" height="3" fill="#F0FFFF" stroke="#000"/><rect x="334" y="1300" width="6" height="3" fill="#F0FFFF" stroke="#000"/>
 <rect x="328" y="1321" width="18" height="10" rx="5" fill="#F0FFFF" stroke="#000"/>
-<rect x="410.0" y="480" width="152.0" height="90" rx="14" fill="#F0FFFF" stroke="#E00000" stroke-width="1.5"/>
-<path d="M542 492 L548 485 L554 492 L554 498 L548 491 L542 498 Z" fill="#F0FFFF" stroke="#E00000" stroke-width="1"/>
-<text x="486.0" y="494.0" font-size="10" text-anchor="middle" font-weight="normal" fill="#000">&lt;&lt;Controller&gt;&gt;</text>
-<text x="486.0" y="508.0" font-size="11" text-anchor="middle" font-weight="normal" fill="#000">User</text>
-<rect x="568.0" y="480" width="152.0" height="90" rx="14" fill="#F0FFFF" stroke="#E00000" stroke-width="1.5"/>
+<rect x="410.0" y="480" width="310.0" height="90" rx="14" fill="#F0FFFF" stroke="#E00000" stroke-width="1.5"/>
 <path d="M700 492 L706 485 L712 492 L712 498 L706 491 L700 498 Z" fill="#F0FFFF" stroke="#E00000" stroke-width="1"/>
-<text x="644.0" y="494.0" font-size="10" text-anchor="middle" font-weight="normal" fill="#000">&lt;&lt;Controller&gt;&gt;</text>
-<text x="644.0" y="508.0" font-size="11" text-anchor="middle" font-weight="normal" fill="#000">UserActivity</text>
+<text x="565.0" y="494.0" font-size="10" text-anchor="middle" font-weight="normal" fill="#000">&lt;&lt;Controller&gt;&gt;</text>
+<text x="565.0" y="508.0" font-size="11" text-anchor="middle" font-weight="normal" fill="#000">Spend</text>
 <rect x="94.0" y="708" width="152.0" height="90" rx="14" fill="#F0FFFF" stroke="#000000" stroke-width="1.0"/>
 <path d="M226 720 L232 713 L238 720 L238 726 L232 719 L226 726 Z" fill="#F0FFFF" stroke="#000000" stroke-width="1"/>
 <text x="170.0" y="722.0" font-size="10" text-anchor="middle" font-weight="normal" fill="#000">&lt;&lt;Controller&gt;&gt;</text>
@@ -52,19 +48,15 @@
 <rect x="410.0" y="708" width="310.0" height="90" rx="14" fill="#F0FFFF" stroke="#E00000" stroke-width="1.5"/>
 <path d="M700 720 L706 713 L712 720 L712 726 L706 719 L700 726 Z" fill="#F0FFFF" stroke="#E00000" stroke-width="1"/>
 <text x="565.0" y="722.0" font-size="10" text-anchor="middle" font-weight="normal" fill="#000">&lt;&lt;Controller&gt;&gt;</text>
-<text x="565.0" y="736.0" font-size="11" text-anchor="middle" font-weight="normal" fill="#000">Usage</text>
+<text x="565.0" y="736.0" font-size="11" text-anchor="middle" font-weight="normal" fill="#000">Balance</text>
 <rect x="884.0" y="708" width="168.0" height="90" rx="14" fill="#F0FFFF" stroke="#000000" stroke-width="1.0"/>
 <path d="M1032 720 L1038 713 L1044 720 L1044 726 L1038 719 L1032 726 Z" fill="#F0FFFF" stroke="#000000" stroke-width="1"/>
 <text x="968.0" y="722.0" font-size="10" text-anchor="middle" font-weight="normal" fill="#000">&lt;&lt;Controller&gt;&gt;</text>
 <text x="968.0" y="736.0" font-size="11" text-anchor="middle" font-weight="normal" fill="#000">OrganisationalUnit</text>
-<rect x="416" y="522" width="140" height="38" rx="11" fill="#F0FFFF" stroke="#E00000" stroke-width="1.5"/>
-<path d="M538 533 L544 526 L550 533 L550 539 L544 532 L538 539 Z" fill="#F0FFFF" stroke="#E00000" stroke-width="1"/>
-<text x="480.0" y="537.0" font-size="10" text-anchor="middle" font-weight="normal" fill="#000">&lt;&lt;Get&gt;&gt;</text>
-<text x="480.0" y="552.0" font-size="10" text-anchor="middle" font-weight="normal" fill="#000">getUserInfo</text>
-<rect x="574" y="522" width="140" height="38" rx="11" fill="#F0FFFF" stroke="#E00000" stroke-width="1.5"/>
+<rect x="416" y="522" width="298" height="38" rx="11" fill="#F0FFFF" stroke="#E00000" stroke-width="1.5"/>
 <path d="M696 533 L702 526 L708 533 L708 539 L702 532 L696 539 Z" fill="#F0FFFF" stroke="#E00000" stroke-width="1"/>
-<text x="638.0" y="537.0" font-size="10" text-anchor="middle" font-weight="normal" fill="#000">&lt;&lt;Get&gt;&gt;</text>
-<text x="638.0" y="552.0" font-size="10" text-anchor="middle" font-weight="normal" fill="#000">getUserDailyActivity</text>
+<text x="559.0" y="537.0" font-size="10" text-anchor="middle" font-weight="normal" fill="#000">&lt;&lt;Get&gt;&gt;</text>
+<text x="559.0" y="552.0" font-size="10" text-anchor="middle" font-weight="normal" fill="#000">getDailySpend</text>
 <rect x="100" y="750" width="140" height="38" rx="11" fill="#F0FFFF" stroke="#000000" stroke-width="1.0"/>
 <path d="M222 761 L228 754 L234 761 L234 767 L228 760 L222 767 Z" fill="#F0FFFF" stroke="#000000" stroke-width="1"/>
 <text x="164.0" y="765.0" font-size="10" text-anchor="middle" font-weight="normal" fill="#000">&lt;&lt;Get&gt;&gt;</text>
@@ -72,7 +64,7 @@
 <rect x="416" y="750" width="298" height="38" rx="11" fill="#F0FFFF" stroke="#E00000" stroke-width="1.5"/>
 <path d="M696 761 L702 754 L708 761 L708 767 L702 760 L696 767 Z" fill="#F0FFFF" stroke="#E00000" stroke-width="1"/>
 <text x="559.0" y="765.0" font-size="10" text-anchor="middle" font-weight="normal" fill="#000">&lt;&lt;Get&gt;&gt;</text>
-<text x="559.0" y="780.0" font-size="10" text-anchor="middle" font-weight="normal" fill="#000">getUserUsage</text>
+<text x="559.0" y="780.0" font-size="10" text-anchor="middle" font-weight="normal" fill="#000">getBalance</text>
 <rect x="890" y="750" width="156" height="38" rx="11" fill="#F0FFFF" stroke="#000000" stroke-width="1.0"/>
 <path d="M1028 761 L1034 754 L1040 761 L1040 767 L1034 760 L1028 767 Z" fill="#F0FFFF" stroke="#000000" stroke-width="1"/>
 <text x="962.0" y="765.0" font-size="10" text-anchor="middle" font-weight="normal" fill="#000">&lt;&lt;Get&gt;&gt;</text>
@@ -85,12 +77,9 @@
 <path d="M696 1123 L702 1116 L708 1123 L708 1129 L702 1122 L696 1129 Z" fill="#F0FFFF" stroke="#E00000" stroke-width="1"/>
 <text x="559.0" y="1127.0" font-size="10" text-anchor="middle" font-weight="normal" fill="#000">&lt;&lt;Trigger&gt;&gt;</text>
 <text x="559.0" y="1142.0" font-size="10" text-anchor="middle" font-weight="normal" fill="#000">showUsage</text>
-<rect x="416" y="268" width="140" height="46" fill="#fff" stroke="#000000" stroke-width="1.0"/>
-<line x1="416" y1="279" x2="556" y2="279" stroke="#000000"/>
-<text x="486.0" y="300.5" font-size="11" text-anchor="middle" font-weight="normal" fill="#000">/user/info</text>
-<rect x="574" y="268" width="140" height="46" fill="#fff" stroke="#000000" stroke-width="1.0"/>
-<line x1="574" y1="279" x2="714" y2="279" stroke="#000000"/>
-<text x="644.0" y="300.5" font-size="11" text-anchor="middle" font-weight="normal" fill="#000">/user/daily/activity</text>
+<rect x="416" y="268" width="298" height="46" fill="#fff" stroke="#000000" stroke-width="1.0"/>
+<line x1="416" y1="279" x2="714" y2="279" stroke="#000000"/>
+<text x="565.0" y="300.5" font-size="11" text-anchor="middle" font-weight="normal" fill="#000">/user/daily/activity</text>
 <rect x="10" y="10" width="560" height="184" fill="#fff" stroke="#000"/>
 <line x1="138" y1="10" x2="138" y2="194" stroke="#000"/>
 <text x="16.0" y="26.0" font-size="11" text-anchor="start" font-weight="normal" fill="#000">Name</text>
@@ -118,9 +107,9 @@
 <path d="M60,1202 L505,1202 L517,1214 L517,1246 L60,1246 L60,1202 Z" fill="#fff" stroke="#000" stroke-width="1" stroke-linejoin="miter"/><polyline points="505,1202 505,1214 517,1214" fill="none" stroke="#000" stroke-width="1"/>
 <text x="67.0" y="1219.0" font-size="10.5" text-anchor="start" font-weight="normal" fill="#000">ClientApp er økonomi-frontenden i LibreChat. Den er ikke del af denne story.</text>
 <text x="67.0" y="1234.0" font-size="10.5" text-anchor="start" font-weight="normal" fill="#000">WebApp og kanal ind i LibreChat afklares.</text>
-<path d="M547,1202 L959,1202 L971,1214 L971,1246 L547,1246 L547,1202 Z" fill="#fff" stroke="#000" stroke-width="1" stroke-linejoin="miter"/><polyline points="959,1202 959,1214 971,1214" fill="none" stroke="#000" stroke-width="1"/>
-<text x="554.0" y="1219.0" font-size="10.5" text-anchor="start" font-weight="normal" fill="#000">Person.presentation.organisationalUnitCode giver brugerens enhedskode.</text>
-<text x="554.0" y="1234.0" font-size="10.5" text-anchor="start" font-weight="normal" fill="#000">OrganisationDomain slår koden op til navn og overordnet enhed.</text>
+<path d="M547,1202 L1003,1202 L1015,1214 L1015,1246 L547,1246 L547,1202 Z" fill="#fff" stroke="#000" stroke-width="1" stroke-linejoin="miter"/><polyline points="1003,1202 1003,1214 1015,1214" fill="none" stroke="#000" stroke-width="1"/>
+<text x="554.0" y="1219.0" font-size="10.5" text-anchor="start" font-weight="normal" fill="#000">getBalance(auid, fra, til) omregner USD til DKK. Første version: kun pr. AUID.</text>
+<text x="554.0" y="1234.0" font-size="10.5" text-anchor="start" font-weight="normal" fill="#000">Senere: samme metode med organisatorisk enhed eller IDM-gruppering.</text>
 <rect x="60" y="1266" width="1180" height="134" fill="#fff" stroke="#000"/>
 <text x="68.0" y="1282.0" font-size="11" text-anchor="start" font-weight="bold" fill="#000">Notationsforklaring (ArchiMate 3)</text>
 <rect x="70" y="1292" width="52" height="18" fill="#F0FFFF" stroke="#000000" stroke-width="1.0"/>
@@ -152,8 +141,6 @@
 <polyline points="565.0,936.0 565.0,788.0" fill="none" stroke="#000" stroke-width="1.2" marker-end="url(#tri)"/>
 <polyline points="416.0,769.0 240.0,769.0" fill="none" stroke="#000" stroke-width="1.2" marker-end="url(#tri)"/>
 <polyline points="714.0,769.0 890.0,769.0" fill="none" stroke="#000" stroke-width="1.2" marker-end="url(#tri)"/>
-<polyline points="530.0,750.0 530.0,560.0" fill="none" stroke="#000" stroke-width="1.2" marker-end="url(#tri)"/>
-<polyline points="688.0,750.0 688.0,560.0" fill="none" stroke="#000" stroke-width="1.2" marker-end="url(#tri)"/>
-<polyline points="530.0,314.0 530.0,522.0" fill="none" stroke="#000" stroke-width="1.2" stroke-dasharray="5,3" marker-end="url(#opn)"/>
-<polyline points="688.0,314.0 688.0,522.0" fill="none" stroke="#000" stroke-width="1.2" stroke-dasharray="5,3" marker-end="url(#opn)"/>
+<polyline points="565.0,750.0 565.0,560.0" fill="none" stroke="#000" stroke-width="1.2" marker-end="url(#tri)"/>
+<polyline points="565.0,314.0 565.0,522.0" fill="none" stroke="#000" stroke-width="1.2" stroke-dasharray="5,3" marker-end="url(#opn)"/>
 </svg>
